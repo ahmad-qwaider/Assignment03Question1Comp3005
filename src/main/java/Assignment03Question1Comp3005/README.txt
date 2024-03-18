@@ -20,7 +20,7 @@ CREATE TABLE students (
 
 - Application Configuration:
 
-Open StudentDatabaseApp.java (inside assignment01comp3005 package).
+Open StudentDatabaseApp.java (inside assignment03Question1comp3005 package).
 Update the following lines with your PostgreSQL details:
 private static final String URL = "jdbc:postgresql://localhost:5432/University";
 private static final String USER = "postgres";
