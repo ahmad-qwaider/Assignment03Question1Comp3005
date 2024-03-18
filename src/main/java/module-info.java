@@ -5,6 +5,6 @@ module com.example.assignment01comp3005 {
 
 
 
-    opens com.example.assignment01comp3005 to javafx.fxml;
-    exports com.example.assignment01comp3005;
+    opens Assignment03Question1Comp3005 to javafx.fxml;
+    exports Assignment03Question1Comp3005;
 }

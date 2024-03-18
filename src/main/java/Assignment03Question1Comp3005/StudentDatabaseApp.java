@@ -1,4 +1,4 @@
-package com.example.assignment01comp3005;
+package Assignment03Question1Comp3005;
 
 import java.sql.*;
 
@@ -114,13 +114,13 @@ public class StudentDatabaseApp {
         // Example operations to demonstrate functionality
         getAllStudents();
 
-       addStudent("ahmad", "kalaka", "ahmad@example.com", "2022-01-01");
-       getAllStudents();
-
-        updateStudentEmail(8, "new.jane.smith@example.com");
-        getAllStudents();
-
-        deleteStudent(8);
-        getAllStudents();
+//        addStudent("ahmad", "kalaka", "ahmad@example.com", "2022-01-01");
+//        getAllStudents();
+//
+//        updateStudentEmail(8, "new.jane.smith@example.com");
+//        getAllStudents();
+//
+//        deleteStudent(8);
+//        getAllStudents();
     }
 }
